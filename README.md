@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudeepbatra
-- Java, Spring Boot, JPA, Hibernate, Spring Data, Spring Cloud, Project Reactor (Reactive Programming), Python, numpy and pandas, Django, FastAPI, NodeJS, Hystrix, Eureka and more
+- Java, Spring Boot, JPA, Hibernate, Spring Data, Spring Cloud, Project Reactor (Reactive Programming), Python, numpy and pandas, asyncio, Apache Kafka, Cython, **High performance Python**, Django, FastAPI, NodeJS, Hystrix, Eureka and more
 - **email:** sudeep.batra@gmail.com
 - **Phone:** +91.9325487506
 
